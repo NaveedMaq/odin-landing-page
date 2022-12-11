@@ -15,3 +15,5 @@ Odin Landing Page is a project which showcases one of my favorite cities ie Ista
  - HTML
  - Basic CSS
  - Flexbox
+
+ Refs: [Odin Project](https://www.theodinproject.com/)
