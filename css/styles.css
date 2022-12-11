@@ -46,6 +46,8 @@ body {
     align-items: center;
     flex-wrap: wrap;
     font-size: 18px;
+    padding-top: 40px;
+    padding-bottom: 32px;
 }
 
 .hero .intro {
@@ -62,8 +64,9 @@ body {
 .hero img {
     box-sizing: border-box;
     flex: none;
-    width: 50%;
-    padding-bottom: 10px;
+    width: 45%;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 .hero button, .joinus button {
